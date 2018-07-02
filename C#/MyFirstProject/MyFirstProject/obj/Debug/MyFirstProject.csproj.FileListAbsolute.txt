@@ -1,0 +1,6 @@
+C:\Users\mdor18\Desktop\C#\MyFirstProject\MyFirstProject\bin\Debug\MyFirstProject.exe.config
+C:\Users\mdor18\Desktop\C#\MyFirstProject\MyFirstProject\bin\Debug\MyFirstProject.exe
+C:\Users\mdor18\Desktop\C#\MyFirstProject\MyFirstProject\bin\Debug\MyFirstProject.pdb
+C:\Users\mdor18\Desktop\C#\MyFirstProject\MyFirstProject\obj\Debug\MyFirstProject.csprojResolveAssemblyReference.cache
+C:\Users\mdor18\Desktop\C#\MyFirstProject\MyFirstProject\obj\Debug\MyFirstProject.exe
+C:\Users\mdor18\Desktop\C#\MyFirstProject\MyFirstProject\obj\Debug\MyFirstProject.pdb
