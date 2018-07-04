@@ -1,0 +1,9 @@
+E:\C#\Employee\Employee\bin\Debug\Employee.exe.config
+E:\C#\Employee\Employee\obj\Debug\Employee.csprojResolveAssemblyReference.cache
+E:\C#\Employee\Employee\obj\Debug\Employee.Form1.resources
+E:\C#\Employee\Employee\obj\Debug\Employee.Properties.Resources.resources
+E:\C#\Employee\Employee\obj\Debug\Employee.csproj.GenerateResource.Cache
+E:\C#\Employee\Employee\bin\Debug\Employee.exe
+E:\C#\Employee\Employee\bin\Debug\Employee.pdb
+E:\C#\Employee\Employee\obj\Debug\Employee.exe
+E:\C#\Employee\Employee\obj\Debug\Employee.pdb

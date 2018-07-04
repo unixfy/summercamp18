@@ -7,3 +7,12 @@ C:\Users\mdor18\Desktop\C#\SummerCamp18\SummerCamp18\bin\Debug\SummerCamp18.exe
 C:\Users\mdor18\Desktop\C#\SummerCamp18\SummerCamp18\bin\Debug\SummerCamp18.pdb
 C:\Users\mdor18\Desktop\C#\SummerCamp18\SummerCamp18\obj\Debug\SummerCamp18.exe
 C:\Users\mdor18\Desktop\C#\SummerCamp18\SummerCamp18\obj\Debug\SummerCamp18.pdb
+E:\C#\SummerCamp18\SummerCamp18\bin\Debug\SummerCamp18.exe.config
+E:\C#\SummerCamp18\SummerCamp18\obj\Debug\SummerCamp18.exe
+E:\C#\SummerCamp18\SummerCamp18\obj\Debug\SummerCamp18.pdb
+E:\C#\SummerCamp18\SummerCamp18\bin\Debug\SummerCamp18.exe
+E:\C#\SummerCamp18\SummerCamp18\bin\Debug\SummerCamp18.pdb
+E:\C#\SummerCamp18\SummerCamp18\obj\Debug\SummerCamp18.csprojResolveAssemblyReference.cache
+E:\C#\SummerCamp18\SummerCamp18\obj\Debug\SummerCamp18.Form1.resources
+E:\C#\SummerCamp18\SummerCamp18\obj\Debug\SummerCamp18.Properties.Resources.resources
+E:\C#\SummerCamp18\SummerCamp18\obj\Debug\SummerCamp18.csproj.GenerateResource.Cache
